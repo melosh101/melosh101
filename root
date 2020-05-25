@@ -1,3 +1,4 @@
+root: {
   --Theme-Variant: " ANIME";
   --Chat-Font-Used: ;
   --Chat-Font-Size: 15px;
@@ -16,3 +17,4 @@
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
   --Chat-Avatar-Border-Radius: 10%;
   --Background-Darkness: 30%;
+  }
