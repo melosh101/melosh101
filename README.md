@@ -9,5 +9,5 @@ invite him [here](https://invite.bucketbot.dev)
 </a>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=milaskiller&show_icons=true&hide_border=true&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaskiller&layout=compact&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=melosh101&show_icons=true&hide_border=true&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosh101&layout=compact&theme=onedark"/>
