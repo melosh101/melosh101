@@ -1,11 +1,10 @@
 # milaskiller
-HI im a broke 15 year old that has nothing left to do than programming. i have this awesome friend called [kaine](https://github.com/KingOKarma) you shoul check out his repos 
+HI im a broke 16 year old that has nothing left to do than programming and entertaining people with my odd and broken humor.
 
-oh yeah im also a co owner of kfc bucket boy. a discord multi purpose bot with the focus on entertainment
-invite him [here](https://invite.bucketbot.dev)
+im an official maintainer of FACT OF THE DAY bot. you can invite it here to get daily facts. remember to do /setup in the channel you desure it to send facts[here](https://discord.com/oauth2/authorize?client_id=690829074465292329&scope=bot+applications.commands&permissions=120259267600)
 <br/>
-<a href="https://bucketbot.dev" >
-  <img src="https://top.gg/api/widget/614110037291565056.svg" alt="KFC Bucket boi" />
+<a href="https://top.gg/bot/690829074465292329" >
+  <img src="https://top.gg/api/widget/690829074465292329.svg" alt="FOTD" />
 </a>
 
 <br/>
