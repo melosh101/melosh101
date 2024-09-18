@@ -7,8 +7,11 @@ im an official maintainer of FACT OF THE DAY bot. you can invite it here to get 
 <a href="https://top.gg/bot/690829074465292329" >
   <img src="https://top.gg/api/widget/690829074465292329.svg" alt="FOTD" />
 </a>
-My [roadmap.sh](https://roadmap.sh) progress
-[![roadmap.sh](https://roadmap.sh/card/tall/66eaab1ff34c8868ec0fe13f?variant=dark)](https://roadmap.sh)
 <br/>
+## My [roadmap.sh](https://roadmap.sh) progress
+<br/>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66eaab1ff34c8868ec0fe13f?variant=dark" alt="roadmap.sh"/></a>
+<br/>
+## My github stats
 <img src="https://github-readme-stats.vercel.app/api?username=melosh101&show_icons=true&hide_border=true&theme=onedark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosh101&layout=compact&theme=onedark"/>
