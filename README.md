@@ -1,10 +1,11 @@
 # Melosh101
+
 HI im a 20 year old web developer
 
-## My [roadmap.sh](https://roadmap.sh) progress
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66eaab1ff34c8868ec0fe13f?variant=dark" alt="roadmap.sh"/></a>
-<br/>
+## What do i do
 
-## Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=melosh101&show_icons=true&hide_border=true&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosh101&layout=compact&theme=onedark"/>
+Im currently studying web development and gradutation october this year.
+
+i also run a run and host all my projects on a hetzner node that i fully manage on my own.
+It's running k3s flavored kubernetes.
+more about my infra on my gitea instance [infra](https://gitea.milasholsting.dk/melosh101/infra)
